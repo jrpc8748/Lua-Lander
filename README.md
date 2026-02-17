@@ -9,26 +9,21 @@ A 2D Finite Physics-based landing game built in Unity, where: -
 
 4. 1x and 5x score multiplier Landing Pads. 
 
-Education 
 
 ## Main Menu
 ![Main Menu Screenshot](Screenshots/Main_Menu.png)
 
-## Garage-1
-![Garage Screenshot](Screenshots/Garage_1.png)
+## Level-1
+![Garage Screenshot](Screenshots/Level_1.png)
 
-## Garage-2
-![Garage Screenshot](Screenshots/Garage_2.png)
+## Level-2
+![Garage Screenshot](Screenshots/Level_2.png)
 
-## Gameplay
-![Gameplay Screenshot](Screenshots/Game_Play_1.png)
+## Crashed
+![Gameplay Screenshot](Screenshots/Crash.png)
+
+## Successful Landing
+![Gameplay Screenshot](Screenshots/Successful_Landing.png)
 
 ## Game Over
 ![Gameover Screenshot](Screenshots/Game_Over.png)
-
-d:\Download\Unity\Lua Lander\Screenshots\Successful_Landing.png
-    d:\Download\Unity\Lua Lander\Screenshots\Crash.png
-d:\Download\Unity\Lua Lander\Screenshots\Game_Over.png
-d:\Download\Unity\Lua Lander\Screenshots\Level_1.png
-d:\Download\Unity\Lua Lander\Screenshots\Level_2.png
-d:\Download\Unity\Lua Lander\Screenshots\Main_Menu.png

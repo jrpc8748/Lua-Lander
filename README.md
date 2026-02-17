@@ -1,14 +1,15 @@
-# Highway-Crash
-A 3D Endless Car Racing Game with: - 
+# Lua Lander 2D
+A 2D Finite Physics-based landing game built in Unity, where: - 
 
-1. Car Selection System with 5 cars which all have different Speed and braking power. 
+1. Realistic Physics-Based Mechanics for the Player’s Rocket. 
 
-2. Responsive & Smooth Steering Controls to give good game experience. 
+2. Skill-Focused Gameplay to make a good user experience. 
 
-3. Each car has an Engine Sound with their respective RPM. 
+3. Progressive Difficulty increases as the level rises. 
 
-4. Endless Track with Spawning traffic According to their speed. 
+4. 1x and 5x score multiplier Landing Pads. 
 
+Education 
 
 ## Main Menu
 ![Main Menu Screenshot](Screenshots/Main_Menu.png)
@@ -25,3 +26,9 @@ A 3D Endless Car Racing Game with: -
 ## Game Over
 ![Gameover Screenshot](Screenshots/Game_Over.png)
 
+d:\Download\Unity\Lua Lander\Screenshots\Successful_Landing.png
+    d:\Download\Unity\Lua Lander\Screenshots\Crash.png
+d:\Download\Unity\Lua Lander\Screenshots\Game_Over.png
+d:\Download\Unity\Lua Lander\Screenshots\Level_1.png
+d:\Download\Unity\Lua Lander\Screenshots\Level_2.png
+d:\Download\Unity\Lua Lander\Screenshots\Main_Menu.png
